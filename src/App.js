@@ -4,14 +4,17 @@ import "./styles.css";
 const movies = {
   comedy: [
     { name: "3 Idiots ", rating: "8.4" },
-    { name: "Hera Pheri", rating: "8.2" }
+    { name: "Hera Pheri", rating: "8.2" },
+    { name: "The Hangover", rating: "7.7" }
   ],
   action: [
     { name: "The Dark Knight", rating: "9.0" },
-    { name: "Avengers: Endgame", rating: "8.4" }
+    { name: "Avengers: Endgame", rating: "8.4" },
+    { name: "John Wick", rating: "7.4" }
   ],
   scienceFiction: [
     { name: "Inception", rating: "8.8" },
+    { name: "The Matrix", rating: "8.7" },
     { name: "Interstellar", rating: "8.6" }
   ]
 };
